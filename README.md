@@ -1,3 +1,4 @@
+![logo](https://i.ibb.co/yR7dwTq/github-header-image.png)
 <h1 align="center">Hi 👋, I'm imran shaikh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
